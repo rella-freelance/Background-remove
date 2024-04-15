@@ -1,5 +1,6 @@
 from rembg import remove
-from PIL import Image #pillow 
+from PIL import Image #pillow for images
+#the input image
 input_path = 'team1.jpg'
 output_path = 'team.jpg'
 
