@@ -1,3 +1,4 @@
+#two libraries used: pillow, rembg
 from rembg import remove
 from PIL import Image #pillow for images
 #the input image
