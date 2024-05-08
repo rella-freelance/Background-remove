@@ -2,6 +2,7 @@
 from rembg import remove
 from PIL import Image #pillow for images
 #the input image
+#output path could be same as input but would be conflicting 
 input_path = 'team1.jpg'
 output_path = 'team.jpg'
 
